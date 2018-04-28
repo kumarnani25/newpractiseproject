@@ -14,7 +14,7 @@ public class invokeBrowser
 	{
 		if(browser.equalsIgnoreCase("Chrome"))
 		{
-			System.setProperty("webdriver.chrome.driver", "E:\\drivers\\chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", "E:\\drivers\\Chrome\\chromedriver.exe");
 			driver=new ChromeDriver();		
 			}
 		

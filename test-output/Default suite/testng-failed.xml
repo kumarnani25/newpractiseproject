@@ -3,11 +3,14 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="OrangehrmTestscripts.syncronization">
+      <class name="OrangehrmTestscripts.Verifycreationofuser">
         <methods>
-          <include name="test"/>
+          <include name="invokeurl"/>
+          <include name="saveReport"/>
+          <include name="Verifycreateduser"/>
+          <include name="reports"/>
         </methods>
-      </class> <!-- OrangehrmTestscripts.syncronization -->
+      </class> <!-- OrangehrmTestscripts.Verifycreationofuser -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
