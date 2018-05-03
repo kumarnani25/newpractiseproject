@@ -8,6 +8,7 @@ public class name {
 	public void name21()
 	{
 		System.out.println("Name3213456890");
+		System.out.println("testing");
 	}
 
 }
