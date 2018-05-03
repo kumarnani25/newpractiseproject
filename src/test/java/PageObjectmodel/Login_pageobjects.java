@@ -11,6 +11,8 @@ public class Login_pageobjects {
 
 	@FindBy(id="txtUsername")
 	public WebElement Username;
+         @FindBy(id="txtUsername")
+	public WebElement Username2;
 	
 	@FindBy(id="txtPassword")
 	public WebElement Password;
