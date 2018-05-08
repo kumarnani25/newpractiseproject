@@ -12,6 +12,7 @@ public class Hardassert
 		String msg="hello";
 		Assert.assertEquals(msg, "hello");
 		System.out.println("Msg verified");
+                System.out.println("Msg verified");
 	}
 
 	
