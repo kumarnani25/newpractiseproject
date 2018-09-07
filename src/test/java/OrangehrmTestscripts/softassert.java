@@ -24,4 +24,5 @@ public class softassert {
 		System.out.println("Msg verified abcd");
 		Assert.assertAll();
 	}
+/*updated the source*/
 }
